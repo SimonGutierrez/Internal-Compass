@@ -7,7 +7,7 @@
     "chai": "^4.2.0",
     "firebase": "^6.2.0",
     "mocha": "^7.0.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "react": "^16.8.6",
     "react-burger-menu": "^2.6.10",
     "react-dom": "^16.8.6",
